@@ -17,7 +17,7 @@ namespace udantechno_bill_book_api.Controllers
         {
             _logger = logger;
         }
-        //Omkar aditya
+        //Omkar aditya Mayur
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
