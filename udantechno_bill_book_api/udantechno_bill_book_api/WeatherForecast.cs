@@ -4,6 +4,8 @@ namespace udantechno_bill_book_api
     {
         public DateOnly Date { get; set; }
 
+        // This is form mayur
+
         public int TemperatureC { get; set; }
 
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
