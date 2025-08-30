@@ -1,0 +1,6 @@
+@udantechno_bill_book_api_HostAddress = http://localhost:5005
+
+GET {{udantechno_bill_book_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
