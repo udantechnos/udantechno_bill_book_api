@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("udantechno_bill_book_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe1b1a7729dd94bf64c89fa461fb75f1cbd48c80")]
 [assembly: System.Reflection.AssemblyProductAttribute("udantechno_bill_book_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("udantechno_bill_book_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
